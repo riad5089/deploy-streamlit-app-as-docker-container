@@ -1,0 +1,5 @@
+numpy
+scikit-learn
+streamlit
+streamlit-option-menu
+altair==4.2.2
